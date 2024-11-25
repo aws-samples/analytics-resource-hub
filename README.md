@@ -1,4 +1,4 @@
-# AWS Analytics Resources
+# Analytics Resources Hub
 Welcome to our curated collection of AWS analytics resources. This repository serves as a comprehensive guide for individuals seeking to deepen their understanding of key analytics categories within the AWS ecosystem. Our analytics team has carefully selected these resources, which include blog posts, white papers, YouTube videos, and hands-on workshops, to provide a diverse range of learning materials suitable for various learning styles and expertise levels.
 
 We have organized these materials into distinct analytics domains to facilitate easy navigation and targeted learning. Whether you're looking to build a data lake, implement real-time analytics, or explore the latest in AI-driven insights, you'll find relevant and up-to-date information here.
