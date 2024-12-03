@@ -1,4 +1,4 @@
-# Analytics Resources Hub
+# Analytics Resource Hub
 Welcome to our curated collection of AWS analytics resources. This repository serves as a comprehensive guide for individuals seeking to deepen their understanding of key analytics categories within the AWS ecosystem. Our analytics team has carefully selected these resources, which include blog posts, white papers, YouTube videos, and hands-on workshops, to provide a diverse range of learning materials suitable for various learning styles and expertise levels.
 
 We have organized these materials into distinct analytics domains to facilitate easy navigation and targeted learning. Whether you're looking to build a data lake, implement real-time analytics, or explore the latest in AI-driven insights, you'll find relevant and up-to-date information here.
@@ -41,6 +41,7 @@ To navigate this repository, please use the table of contents below to find the 
 
 
 ## Data Governance & Security
+- Enhance data governance with enforced metadata rules in Amazon DataZone - [Blog](https://aws.amazon.com/blogs/big-data/enhance-data-governance-with-enforced-metadata-rules-in-amazon-datazone/)
 - Data Governance Master Class - [Guide](https://pages.awscloud.com/GLOBAL-devadopt-DL-Data-governance-master-class-2023-learn.html)
 - Data Governance in the Age of Generative AI - [Blog](https://aws.amazon.com/blogs/big-data/data-governance-in-the-age-of-generative-ai/)
 - Automated Data Governance with AWS Glue Data Quality, Sensitive Data Detection, and AWS Lake Formation - [Blog](https://aws.amazon.com/blogs/big-data/automated-data-governance-with-aws-glue-data-quality-sensitive-data-detection-and-aws-lake-formation/)
@@ -80,6 +81,7 @@ To navigate this repository, please use the table of contents below to find the 
 
 
 ## Search and Discovery
+- New Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience - [Blog](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-and-amazon-opensearch-service-launch-an-integrated-analytics-experience/)
 - Dive into Amazon OpenSearch Service - [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/f0213896-4dd9-494a-89c5-f7886b45ed4a/en-US)
 - Building Retrieval Augmented Generation (RAG) Workflows with Amazon OpenSearch Service - [SkillBuilder Self-Paced Labs](https://explore.skillbuilder.aws/learn/course/external/view/elearning/21025/building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service)
 - Amazon OpenSearch Service Vector Database Capabilities Explained - [Blog](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
@@ -90,7 +92,7 @@ To navigate this repository, please use the table of contents below to find the 
 
 
 ## Data Democratization and Marketplaces
-
+- Develop a business chargeback model within your organization using Amazon Redshift multi-warehouse writes - [Blog](https://aws.amazon.com/blogs/big-data/develop-a-business-chargeback-model-within-your-organization-using-amazon-redshift-multi-warehouse-writes/)
 - Demystify Data Sharing and Collaboration Patterns on AWS - [Blog](https://aws.amazon.com/blogs/big-data/demystify-data-sharing-and-collaboration-patterns-on-aws-choosing-the-right-tool-for-the-job/)
 - Build and govern your data mesh with Amazon DataZone - [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/3b24c89f-9c6c-47fc-8505-4c009c946769/en-US)
 - Set up Cross-Account AWS Glue Data Catalog Access - [Blog](https://aws.amazon.com/blogs/big-data/set-up-cross-account-aws-glue-data-catalog-access-using-aws-lake-formation-and-aws-iam-identity-center-with-amazon-redshift-and-amazon-quicksight/)
