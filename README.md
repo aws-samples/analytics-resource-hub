@@ -7,17 +7,21 @@ To navigate this repository, please use the table of contents below to find the 
 
 
 ## Table of Contents
-1. [Data Engineering and Integration](#data-engineering-and-integration)
-2. [Data Lakes and Lake Houses](#data-lakes-and-lake-houses)
-3. [Data Governance & Security](#data-governance--security)
-4. [Data Warehousing](#data-warehousing)
-5. [Real-time Analytics and Streaming](#real-time-analytics-and-streaming)
-6. [Open Source Analytics](#open-source-analytics)
-7. [Search and Discovery](#search-and-discovery)
-8. [Data Democratization and Marketplaces](#data-democratization-and-marketplaces)
-9. [Data for Generative AI ](#data-for-generative-ai)
-10. [Cost Optimization for Analytics](#open-source-analytics)
+1. [SageMaker Unified Studio](#sagemaker-unified-studio)
+2. [Data Engineering and Integration](#data-engineering-and-integration)
+3. [Data Lakes and Lake Houses](#data-lakes-and-lake-houses)
+4. [Data Governance & Security](#data-governance--security)
+5. [Data Warehousing](#data-warehousing)
+6. [Real-time Analytics and Streaming](#real-time-analytics-and-streaming)
+7. [Open Source Analytics](#open-source-analytics)
+8. [Search and Discovery](#search-and-discovery)
+9. [Data Democratization and Marketplaces](#data-democratization-and-marketplaces)
+10. [Data for Generative AI ](#data-for-generative-ai)
+11. [Cost Optimization for Analytics](#open-source-analytics)
 
+## SageMaker Unified Studio
+- Amazon SageMaker Platform - [YouTube Playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukfO6GSXNpOHp5U3rUF5a079)
+- Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI - [Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)
 
 ## Data Engineering and Integration
 - Data Engineering Immersion Day - [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US)
